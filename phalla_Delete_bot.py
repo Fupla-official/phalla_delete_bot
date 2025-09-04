@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import datetime
 
 # --- Configuration ---
-TOKEN = "8485363687:AAGS83mef3QgQysm57bCeyaIHo4RCo1eOEY"  # Make sure your real token is here
+TOKEN = "8485363687:AAGS83mef3QgQysm57bCeyaIHo4RCo1eO0Y"  # Make sure your real token is here
 
 
 # --- Command Handlers ---
@@ -79,4 +79,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+
     main()
